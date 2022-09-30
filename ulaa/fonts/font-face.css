@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Haas Grot Disp R";
+    src: url("/fonts/HaasGrotDispR/Woff2/HaasGrotDispR-45Light.woff2") format("woff2"), url("/fonts/HaasGrotDispR/Woff/HaasGrotDispR-45Light.woff") format("woff");
+    font-display: swap;
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: "Haas Grot Disp R";
+    src: url("/fonts/HaasGrotDispR/Woff2/HaasGrotDispR-55Roman.woff2") format("woff2"), url("/fonts/HaasGrotDispR/Woff/HaasGrotDispR-55Roman.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: "Haas Grot Disp R";
+    src: url("/fonts/HaasGrotDispR/Woff2/HaasGrotDispR-65Medium.woff2") format("woff2"), url("/fonts/HaasGrotDispR/Woff/HaasGrotDispR-65Medium.woff") format("woff");
+    font-display: swap;
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: "Haas Grot Disp R";
+    src: url("/fonts/HaasGrotDispR/Woff2/HaasGrotDispR-75Bold.woff2") format("woff2"), url("/fonts/HaasGrotDispR/Woff/HaasGrotDispR-75Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+  }
+  
